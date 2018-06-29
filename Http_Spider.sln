@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Http_Spider", "Http_Spider\Http_Spider.csproj", "{6E4AFD38-FEBF-4435-AED5-7BD5A711DD87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpSpiderMaster", "HttpSpiderMaster\HttpSpiderMaster.csproj", "{B750CD41-13B5-4117-8B96-68759E38C12D}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBaseTaskRuner", "IBaseTaskRuner\IBaseTaskRuner.csproj", "{97E916FF-FF51-4CB4-9059-C5E534014233}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelEntity", "ModelEntity\ModelEntity.csproj", "{51F5EC43-52D2-475E-8974-F381661BCC27}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpSpiderMaster", "HttpSpiderMaster\HttpSpiderMaster.csproj", "{B750CD41-13B5-4117-8B96-68759E38C12D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +21,10 @@ Global
 		{6E4AFD38-FEBF-4435-AED5-7BD5A711DD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E4AFD38-FEBF-4435-AED5-7BD5A711DD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E4AFD38-FEBF-4435-AED5-7BD5A711DD87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B750CD41-13B5-4117-8B96-68759E38C12D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B750CD41-13B5-4117-8B96-68759E38C12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B750CD41-13B5-4117-8B96-68759E38C12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B750CD41-13B5-4117-8B96-68759E38C12D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{97E916FF-FF51-4CB4-9059-C5E534014233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{97E916FF-FF51-4CB4-9059-C5E534014233}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97E916FF-FF51-4CB4-9059-C5E534014233}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -29,15 +33,11 @@ Global
 		{51F5EC43-52D2-475E-8974-F381661BCC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51F5EC43-52D2-475E-8974-F381661BCC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51F5EC43-52D2-475E-8974-F381661BCC27}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B750CD41-13B5-4117-8B96-68759E38C12D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B750CD41-13B5-4117-8B96-68759E38C12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B750CD41-13B5-4117-8B96-68759E38C12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B750CD41-13B5-4117-8B96-68759E38C12D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BFC7C678-56F2-4738-8358-335443CB882D}
+		SolutionGuid = {90A5DC56-8DDF-45AF-8AB0-6F34748D83C5}
 	EndGlobalSection
 EndGlobal
